@@ -11,14 +11,14 @@
 <img src="https://github.com/user-attachments/assets/fbd3ebb5-781a-4c10-bab2-dd22b1b22c99" alt="Mobile version with alert" >
 
 
-## 📫 Contributing to <project_name>
+## 📫 Contributing to Shopping-list
 
-To contribute to <project_name>, follow these steps:
+To contribute to Shopping-list, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name> / <location>`
+4. Push to the original branch: `git push origin Shopping-list / <location>`
 5. Create a pull request.
 
 
